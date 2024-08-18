@@ -1,0 +1,21 @@
+import pandas as pd 
+import numpy as np
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.layers import Dropout
+from tensorflow.keras.layers import LeakyReLU
+from tensorflow.keras.models import load_model
+from tensorflow.keras.utils import CustomObjectScope
+from tensorflow.keras.optimizers import Adam
+import matplotlib.pyplot as plt
+import pickle
+import streamlit as st
+from streamlit_option_menu import option_menu
+
+
+
+
