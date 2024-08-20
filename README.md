@@ -1,5 +1,6 @@
 # ANN-Predictive-Modeling-of-Retail-Sales
-Sales Forecasting and Markdown Optimization
+Sales Forecasting and Markdown Optimization.
+
 Overview
 This project aims to develop a predictive Artificial Neural Network (ANN) model to forecast department-wide sales for each store over the next year and analyze the impact of markdowns on sales during holiday weeks. The goal is to provide actionable insights and recommendations to optimize markdown strategies and improve inventory management.
 
